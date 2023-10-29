@@ -11,7 +11,7 @@ A simple pomodoro terminal application
 ## Compilation and Usage
 
 ```bash
-$ g++ -std=c++20 cppomo -DNOTIFY -DDEBUG -Wall -Wextra -Wpedantic -Werror -lpthread 
+$ g++ -std=c++20 -o cppomo main.cpp -DNOTIFY -DDEBUG -Wall -Wextra -Wpedantic -Werror -lpthread 
 $ ./cppomo
 ```
 
