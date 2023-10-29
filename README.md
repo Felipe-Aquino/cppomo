@@ -19,3 +19,4 @@ The flags -DNOTIFY and -DDEBUG are optional.
 
 If the state is stopped use the command **start**, and if it is paused use **continue**.
 At any time is possible to use the commands **focus**, **break** or **lbreak** to select another pomodoro state.
+Use **q** to quit the aplication.
